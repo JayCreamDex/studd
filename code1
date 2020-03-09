@@ -30,3 +30,5 @@ elif sex = '2' and per = '3':
       print('Ola Visitante')
 else:
       print('Ola desconhecido')
+
+rm85438 tiago marques
