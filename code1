@@ -1,0 +1,32 @@
+sex = input('''Selecione seu sexo:
+1)Masc
+2)Femi
+
+Selecione seu sexo: ''')
+
+per = input('''Entrar como:
+1)Adm
+2)Usr
+3)Guest
+
+Entrar como? :''')
+
+if sex = '1' and per = '1':
+     print('Ola Administrador')
+
+elif sex = '2' and per = '1':
+     print('Ola Administradora')
+
+elif sex = '1' and per = '2':
+     print('Ola Usuario')
+
+elif sex = '2' and per = '2':
+      print('Ola Usuaria')
+    
+elif sex = '1' and per = '3':
+      print('Ola Visitante')
+
+elif sex = '2' and per = '3':
+      print('Ola Visitante')
+else:
+      print('Ola desconhecido')
